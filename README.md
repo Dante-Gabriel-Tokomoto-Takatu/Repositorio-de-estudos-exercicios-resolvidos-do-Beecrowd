@@ -1,2 +1,2 @@
-# Estudos com linguagem C ++
+# Estudos com linguagem C
  Meu primeiro repositório versionado de estudos C++
