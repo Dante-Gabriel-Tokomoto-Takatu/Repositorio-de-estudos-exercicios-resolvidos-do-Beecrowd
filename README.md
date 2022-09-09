@@ -1,3 +1,3 @@
-# C++ Exercícios Resolvidos
-setlocale(LC_ALL, "portuguese-brazilian")
+# Estudos linguagem C ++
+.gitattributes
  Meu primeiro repositório versionado de estudos C++
