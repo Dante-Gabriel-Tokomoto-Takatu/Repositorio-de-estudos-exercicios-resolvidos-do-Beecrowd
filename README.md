@@ -1,5 +1,5 @@
 # Estudos com linguagem C exercícios resolvidos
-// Dizendo Olá Mundo exercício 1000
+Dizendo Olá Mundo exercício 1000
 #include <stdio.h>
  
 int main() {
