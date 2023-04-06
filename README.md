@@ -1,5 +1,5 @@
-# Estudos com linguagem C exercícios resolvidos
-Dizendo Olá Mundo exercício 1000
+# Exercício 1000 Beecrowd, resolvido em linguagem C, Dizendo Olá Mundo.
+
 #include <stdio.h>
  
 int main() {
