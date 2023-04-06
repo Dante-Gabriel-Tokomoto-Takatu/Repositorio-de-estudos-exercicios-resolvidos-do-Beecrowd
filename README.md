@@ -1,4 +1,10 @@
 # Estudos com linguagem C exercícios resolvidos
- Meu primeiro repositório versionado de estudos C
-
-Repositório criado na aula do Gustavo Guanabara.
+// Dizendo Olá Mundo exercício 1000
+#include <stdio.h>
+ 
+int main() {
+ 
+    printf("Hello World!\n");
+ 
+    return 0;
+}
