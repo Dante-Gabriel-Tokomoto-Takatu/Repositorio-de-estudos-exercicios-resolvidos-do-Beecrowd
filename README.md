@@ -1,4 +1,4 @@
-# Exercício 1000 Beecrowd, resolvido em linguagem C, Dizendo Olá Mundo.
+# Exercício 1000 Beecrowd, resolvido em linguagem C, dizendo Olá Mundo.
 
 #include <stdio.h>
  
