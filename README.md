@@ -23,6 +23,11 @@ Resposta do 1003: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230536892-dd822d15-22dd-4952-8907-a01b5e17a870.PNG" />
 </p>
 Resposta do 1004: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201004
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/230537336-d2771495-0269-489c-8f10-c46fca0daa72.PNG" />
+</p>
+Resposta do 1005: 
 
 
 
