@@ -17,7 +17,7 @@ Resposta do 1002: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230535135-aa08f8ac-20e5-4401-9ec6-5147928180e9.PNG" />
 </p>
-Resposta do 1003: 
+Resposta do 1003: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201003
 
 
 
