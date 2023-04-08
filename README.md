@@ -32,6 +32,6 @@ Resposta do 1005: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230742062-4a7c5b55-3367-4c0c-80a5-4381eaa689f1.PNG" />
 </p>
-Resposta do 1006: 
+Resposta do 1006: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201006
 
 
