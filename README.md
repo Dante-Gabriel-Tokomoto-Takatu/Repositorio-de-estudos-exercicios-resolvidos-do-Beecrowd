@@ -28,6 +28,10 @@ Resposta do 1004: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230537336-d2771495-0269-489c-8f10-c46fca0daa72.PNG" />
 </p>
 Resposta do 1005: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201005
-
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/230742062-4a7c5b55-3367-4c0c-80a5-4381eaa689f1.PNG" />
+</p>
+Resposta do 1006: 
 
 
