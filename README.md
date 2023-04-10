@@ -42,5 +42,5 @@ Resposta do 1007: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230828199-a6c189cb-9329-4c3a-8891-6a484eacc747.PNG" />
 </p>
-Resposta do 1008: 
+Resposta do 1008: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201008
 
