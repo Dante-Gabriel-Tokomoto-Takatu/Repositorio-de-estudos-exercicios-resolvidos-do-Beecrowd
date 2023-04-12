@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main (){
+    double codigo_p1, n_p1, valor_p1, codigo_p2, n_p2, valor_p2, valor_pagar;
+    scanf ("%lf %lf %lf\n", &codigo_p1, &n_p1, &valor_p1);
+    scanf ("%lf %lf %lf", &codigo_p2, &n_p2, &valor_p2);
+    valor_pagar = (n_p1 * valor_p1) + (n_p2 * valor_p2);
+    printf ("VALOR A PAGAR: R$ %.2lf\n", valor_pagar);
+    return 0;
+}
