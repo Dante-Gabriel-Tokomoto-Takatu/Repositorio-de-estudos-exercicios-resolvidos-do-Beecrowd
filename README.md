@@ -48,5 +48,11 @@ Resposta do 1008: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <img width="900" src="https://user-images.githubusercontent.com/113074962/231063987-2088bedc-83ec-456b-b564-5aa41c732c31.PNG" />
 </p>
 Resposta do 1009: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201009
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/231346150-8df7ef2d-a828-42fd-8b5e-a6f6ce5d405a.PNG" />
+</p>
+Resposta do 1010: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201010
+
 
 
