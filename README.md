@@ -53,6 +53,10 @@ Resposta do 1009: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <img width="900" src="https://user-images.githubusercontent.com/113074962/231346150-8df7ef2d-a828-42fd-8b5e-a6f6ce5d405a.PNG" />
 </p>
 Resposta do 1010: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201010
-
-
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/231651891-4ad72b49-e5f5-49aa-b15d-c96d06f5e1af.PNG" />
+</p>
+Resposta do 1011: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201011
+Outro jeito de resolver: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201011%20(outro%20jeito)
 
