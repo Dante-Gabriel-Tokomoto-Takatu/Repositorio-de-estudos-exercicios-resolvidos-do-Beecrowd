@@ -60,4 +60,10 @@ Resposta do 1010: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 Resposta do 1011: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201011
 
 Outro jeito de resolver: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201011%20(outro%20jeito)
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/231953752-a9947e31-4dbf-47b9-98d4-95216658c2fb.PNG" />
+</p>
+Resposta do 1012: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201012
+)
 
