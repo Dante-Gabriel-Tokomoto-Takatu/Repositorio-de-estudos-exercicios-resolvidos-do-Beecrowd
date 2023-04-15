@@ -64,6 +64,11 @@ Outro jeito de resolver: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Reposi
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/231953752-a9947e31-4dbf-47b9-98d4-95216658c2fb.PNG" />
 </p>
-Resposta do 1012: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201012
-)
+Resposta do 1012: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201012)
+</p>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/232256173-08ded61d-8be3-4fd5-a510-71111076714c.PNG" />
+</p>
+Resposta do 1013: 
+
 
