@@ -69,6 +69,6 @@ Resposta do 1012: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/232256173-08ded61d-8be3-4fd5-a510-71111076714c.PNG" />
 </p>
-Resposta do 1013: 
+Resposta do 1013: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201013
 
 
