@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main (){
+    double distancia, gasolina, consumo;
+    scanf ("%lf %lf", &distancia, &gasolina);
+    consumo = distancia / gasolina;
+    printf ("%.3lf km/l\n", consumo);
+    return 0;
+}
