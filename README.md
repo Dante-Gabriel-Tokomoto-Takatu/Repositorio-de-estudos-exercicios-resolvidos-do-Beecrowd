@@ -79,7 +79,7 @@ Resposta do 1014: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/232606462-555fa179-2914-43b8-8dc9-36e47d269eaf.png" />
 </p>
-Resposta do 1015: 
+Resposta do 1015: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201015
 
 
 
