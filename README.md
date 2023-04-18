@@ -84,7 +84,7 @@ Resposta do 1015: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-d
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/232899371-c289ad04-7f88-41ec-a545-b2ec8e2ec3a6.png" />
 </p>
-Reposta 1016: 
+Reposta 1016: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201016
 
 
 
