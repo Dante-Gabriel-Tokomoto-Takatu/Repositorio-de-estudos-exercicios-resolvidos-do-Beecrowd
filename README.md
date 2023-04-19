@@ -4,7 +4,7 @@
  <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/232978157-8caf44b8-bb94-4b48-bca3-7c5988841f23.PNG" />
 </p>
-Resposta do 1000:
+Resposta do 1000:https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201000
 <p align="center">
 <img width="900" src="https://user-images.githubusercontent.com/113074962/230270673-6c224f67-29bd-4296-b81e-1d5a92ac2c0c.PNG" />
 </p>
