@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main (){
+    int tempo_viagem_horas, km_h;
+    double gasolina;
+    scanf ("%d %d", &tempo_viagem_horas, &km_h);
+    gasolina = tempo_viagem_horas * km_h;
+    gasolina = gasolina / 12;
+    printf ("%.3lf\n", gasolina);
+    return 0;
+}
