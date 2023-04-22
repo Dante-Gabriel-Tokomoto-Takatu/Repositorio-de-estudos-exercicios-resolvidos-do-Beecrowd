@@ -93,7 +93,11 @@ Reposta 1016: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-es
 <img width="900" src="https://user-images.githubusercontent.com/113074962/233273589-ad4aeecd-555e-449a-8eab-e3990b62040c.PNG" />
 <br>
 Resposta 1017: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201017
-
+<br>
+<p align="center">
+<img width="900" src="https://user-images.githubusercontent.com/113074962/233763876-ebcd8f63-d13d-4066-9ae3-1adbc3afdbda.PNG" />
+<br>
+Resposta 1018: https://github.com/Dante-Gabriel-Tokomoto-Takatu/Repositorio-de-estudos-C-exercicios-resolvidos-do-Beecrowd/blob/main/Beecrowd%201018
 
 
 
