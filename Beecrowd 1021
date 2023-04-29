@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    float N, n100, n50, n20, n10, n5, n2, m1, m50, m25, m10, m5, m01;
+    scanf("%f", &N);
+
+    n100 = floor(N / 100);
+    N = fmod(N, 100);
+    n50 = floor(N / 50);
+    N = fmod(N, 50);
+    n20 = floor(N / 20);
+    N = fmod(N, 20);
+    n10 = floor(N / 10);
+    N = fmod(N, 10);
+    n5 = floor(N / 5);
+    N = fmod(N, 5);
+    n2 = floor(N / 2);
+    N = fmod(N, 2);
+
+    m1 = floor(N / 1);
+    N = fmod(N, 1);
+    m50 = floor(N / 0.50);
+    N = fmod(N, 0.50);
+    m25 = floor(N / 0.25);
+    N = fmod(N, 0.25);
+    m10 = floor(N / 0.10);
+    N = fmod(N, 0.10);
+    m5 = floor(N / 0.05);
+    N = fmod(N, 0.05);
+    m01 = round(N / 0.01);
+
+    printf("NOTAS:\n");
+    printf("%.0f nota(s) de R$ 100.00\n", n100);
+    printf("%.0f nota(s) de R$ 50.00\n", n50);
+    printf("%.0f nota(s) de R$ 20.00\n", n20);
+    printf("%.0f nota(s) de R$ 10.00\n", n10);
+    printf("%.0f nota(s) de R$ 5.00\n", n5);
+    printf("%.0f nota(s) de R$ 2.00\n", n2);
+
+    printf("MOEDAS:\n");
+    printf("%.0f moeda(s) de R$ 1.00\n", m1);
+    printf("%.0f moeda(s) de R$ 0.50\n", m50);
+    printf("%.0f moeda(s) de R$ 0.25\n", m25);
+    printf("%.0f moeda(s) de R$ 0.10\n", m10);
+    printf("%.0f moeda(s) de R$ 0.05\n", m5);
+    printf("%.0f moeda(s) de R$ 0.01\n", m01);
+
+    return 0;
+}
