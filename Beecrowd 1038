@@ -1,0 +1,30 @@
+#include <stdio.h>
+
+int main() {
+  int X, Y;
+  double preco;
+
+  scanf("%d %d", &X, &Y);
+
+  switch(X) {
+    case 1:
+      preco = 4.00;
+      break;
+    case 2:
+      preco = 4.50;
+      break;
+    case 3:
+      preco = 5.00;
+      break;
+    case 4:
+      preco = 2.00;
+      break;
+    case 5:
+      preco = 1.50;
+      break;
+      }
+
+  printf("Total: R$ %.2f\n", preco * Y);
+
+  return 0;
+}
