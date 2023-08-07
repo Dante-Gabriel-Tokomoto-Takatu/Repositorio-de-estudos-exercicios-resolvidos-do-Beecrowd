@@ -1,13 +1,13 @@
 #include <stdio.h>
-
-int main() {
-
-  int cont,num;
-    scanf("%d",&num);
-    if(num%2==0)
-        num=num-1;
-    for(cont=1;cont<=num;cont+=2)
-        printf("%d\n",cont);
-
+int main(){
+    int impar, aux;
+    scanf("%d", &impar);
+    
+    if(impar >= 1 && impar <= 1000){
+        for(int i=1; i<=impar ; i+= 2)
+            printf("%d\n", i);
+    }
+    else
+        return 0;
     return 0;
 }
