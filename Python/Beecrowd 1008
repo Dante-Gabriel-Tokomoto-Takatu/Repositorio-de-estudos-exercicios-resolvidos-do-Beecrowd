@@ -1,0 +1,11 @@
+def calcular_salario():
+    numero = float(input())
+    horas = float(input())
+    valor_hora = float(input())
+    
+    salario = horas * valor_hora
+    
+    print(f"NUMBER = {numero:.0f}")
+    print(f"SALARY = U$ {salario:.2f}")
+
+calcular_salario()
